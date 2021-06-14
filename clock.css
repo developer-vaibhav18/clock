@@ -1,0 +1,59 @@
+/* body{
+    background-color: rgb(48, 47, 47);
+} */
+
+img{
+    width: 20%;
+    padding-top: 12%;
+    padding-left: 37%;
+}
+
+/* .hand{
+    
+} */
+
+.hour{
+    width: 6%;
+    height: 7px;
+    position: absolute;
+    left: 44%;
+    top: 41%;
+    /* transform: rotate(120deg); */
+}
+
+.temp-hrs{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+}
+
+.minute{
+    width: 7%;
+    height: 5px;
+    position: absolute;
+    left: 43.5%;
+    top: 41.3%;
+    
+}
+
+.temp-min{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(63, 60, 60);
+}
+
+.second{
+    width: 8%;
+    height: 3px;
+    position: absolute;
+    left: 43%;
+    top: 41.38%;
+    
+}
+
+.temp-sec{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(151, 148, 148);
+}
+
